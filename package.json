@@ -1,0 +1,30 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HGuleed/jest-another-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HGuleed/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/HGuleed/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.4.5",
+    "ts-node": "^10.4.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^24.9.0"
+  }
+}
